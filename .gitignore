@@ -1,0 +1,33 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Data
+data/
+
+# Logs
+logs/
+*.log
+
+# Secrets
+*.pem
+*.key
+.env
+
+# Misc
+.idea/
+coverage/
